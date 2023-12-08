@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MarieCourse/FM-qr-code-component)
-- Live Site URL: [Add live site URL here](https://mariecourse.github.io/FM-qr-code-component/)
+- Solution URL: [github.com/MarieCourse/FM-qr-code-component](https://github.com/MarieCourse/FM-qr-code-component)
+- Live Site URL: [mariecourse.github.io/FM-qr-code-component/](https://mariecourse.github.io/FM-qr-code-component/)
 
 ## My process
 
@@ -45,4 +45,4 @@ For the next projects, I aim to work with basic JavaScript and React
 ## Author
 
 - Website - [Maria Carrera](https://mariecourse.github.io/portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MarieCourse)
+- Frontend Mentor - [@MarieCourse](https://www.frontendmentor.io/profile/MarieCourse)
